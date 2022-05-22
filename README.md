@@ -15,7 +15,7 @@ Presenta el uso de:
   </ul>
 </p>
 
-<b>Objetivo:</b> Mostrar el funcionamiento de scanf y el uso de operaciones matemáticas básicas.
+<b>Objetivo:</b> Mostrar el funcionamiento de scanf para guardar datos en distintas variables y el uso de operaciones matemáticas básicas.
 
 <p><b>Breve descripcion:</b>
 El programa pide ingresar los datos de un circulo para calcular su área
